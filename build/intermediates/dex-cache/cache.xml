@@ -1,0 +1,158 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="C:\android\Patient\app\build\intermediates\exploded-aar\com.android.support\support-core-utils\24.2.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="9c4c3bc902450c39ed54de170db4fb12aea20a35">
+        <dex dex="C:\android\Patient\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-core-utils-24.2.1_7112a32af8a3e7be0c54669297b83a080ffebddb\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\android\Patient\app\build\intermediates\exploded-aar\com.android.support\support-v4\24.2.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="C:\android\Patient\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-v4-24.2.1_899ba4972a2e55b9222fe0ea0b22d955d058ee04\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\android\Patient\app\build\intermediates\exploded-aar\com.android.support\support-media-compat\24.2.1\jars\libs\internal_impl-24.2.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="fbf8da429efd5ad21e02e3e5ecaa1efc4167878d">
+        <dex dex="C:\android\Patient\app\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-24.2.1_2f7d939b142b6cb9a119b6c132a273ebb578539f\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\android\Patient\app\build\intermediates\exploded-aar\com.android.support\support-compat\24.2.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="0ecb4b595fa0f0f8018a149ace3ea6525624f94e">
+        <dex dex="C:\android\Patient\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-compat-24.2.1_995a4b05b4a2c19ea17881d84a8bf189f38f06b8\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\android\Patient\app\build\intermediates\exploded-aar\com.android.support\support-core-utils\24.2.1\jars\libs\internal_impl-24.2.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="935a969265b2a166b2d20415423f5f6e90fe16e0">
+        <dex dex="C:\android\Patient\app\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-24.2.1_72e662786f50f6ca6d8ff100f5c30de6daa2a780\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\android\Patient\app\build\intermediates\exploded-aar\com.android.support\support-core-ui\24.2.1\jars\libs\internal_impl-24.2.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="867dad63c33388ff8c7644b236579355036d075f">
+        <dex dex="C:\android\Patient\app\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-24.2.1_340ad548268477d0c3a8341908eb4ed85a31edeb\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\android\Patient\app\build\intermediates\exploded-aar\com.android.support\support-vector-drawable\24.2.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="d5c731fc64c03dfe04d51134955b483551c35849">
+        <dex dex="C:\android\Patient\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-vector-drawable-24.2.1_e8696273984f904bc4789f92a8001683d1d9d52a\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\android\Patient\app\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="81fe15de6853624a55377ed01d802be0196fe03c">
+        <dex dex="C:\android\Patient\app\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run-bootstrap_25a9266c1dc1ba187981600aebe1ff88d69cdfcc\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\android\Patient\app\build\intermediates\exploded-aar\com.android.support\support-core-ui\24.2.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="e7f3132168957eefc46229fc32c3bd464642b71e">
+        <dex dex="C:\android\Patient\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-core-ui-24.2.1_b2406f5f8c7832d7ad1f1005cae6e2cfbc8db088\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\android\androidnew\extras\android\m2repository\com\android\support\support-annotations\24.2.1\support-annotations-24.2.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="8de3aafecbdf98a61db6427f008f2d515bcd2544">
+        <dex dex="C:\android\Patient\app\build\intermediates\transforms\dex\debug\folders\1000\10\support-annotations-24.2.1_c4cae5cf64af2fbd9976c6936f79a3fba055266d\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\android\Patient\app\build\intermediates\exploded-aar\com.android.support\support-fragment\24.2.1\jars\libs\internal_impl-24.2.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="5f64d657e838e8375135c0f6057a7ff8fab6a50e">
+        <dex dex="C:\android\Patient\app\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-24.2.1_7e473a521c8c1725e9229d5066bc1151a5c93b39\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\android\Patient\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\24.2.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="43b2dba6b5a0b14527961b75329d0b90025f15ea">
+        <dex dex="C:\android\Patient\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-appcompat-v7-24.2.1_196368ba2f9fad5e8c4bb25272a21fdb6fa260b5\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\android\Patient\app\build\intermediates\exploded-aar\com.android.support\support-media-compat\24.2.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="09b462bbcb77650284bd6614f1a32f360ef369f8">
+        <dex dex="C:\android\Patient\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-media-compat-24.2.1_eb62374be2708f7ec5688c705932e090271aafcc\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\android\Patient\app\build\intermediates\exploded-aar\com.android.support\animated-vector-drawable\24.2.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="94bc1dfb84dcc8b6f6f8f7cc726d7b2dd39c1574">
+        <dex dex="C:\android\Patient\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-animated-vector-drawable-24.2.1_304e181846d178a4fbf369207e1e7a045010fb62\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\android\Patient\app\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="9eb699b0317a1cabb99d598d56d7067b85cbac3f">
+        <dex dex="C:\android\Patient\app\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run_4df73d2e0832a3df3f91c917d4e3c61a50ed51ab\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\android\Patient\app\build\intermediates\exploded-aar\com.android.support\support-fragment\24.2.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="b9a1ac78ad7ef3abedc4a4b30cd92bcacb939d1f">
+        <dex dex="C:\android\Patient\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-fragment-24.2.1_ae2c7df28d05092ee27e96bfc9228ac1562a4543\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\android\Patient\app\build\intermediates\exploded-aar\com.android.support\support-compat\24.2.1\jars\libs\internal_impl-24.2.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="7e4389bd133359a2ff88623ff1e4ff93d6e6f780">
+        <dex dex="C:\android\Patient\app\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-24.2.1_fef15e7700787c223a3658726149e6c8df1c5b9b\classes.dex" />
+    </item>
+
+</items>
